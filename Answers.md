@@ -18,7 +18,7 @@ Q15: 24
 Java Basics
 Q1: B
 Q2: D
-Q3: 
+Q3: A
 Q4: D
 Q5: A
 Q6: C
@@ -27,12 +27,12 @@ Q8: D
 Q9: C
 Q10: C
 Q11: C
-Q12: 
+Q12: C
 Q13: A
-Q14: 
+Q14: B
 Q15: B
 Q16: D
 Q17: D
 Q18: B
-Q19:
-Q20:
+Q19: B
+Q20: D
