@@ -1,8 +1,8 @@
 Java Tracing Quiz
 Q1: 22
 Q2: 10
-Q3:
-Q4:
+Q3: 5
+Q4: 30
 Q5:
 Q6:
 Q7:
